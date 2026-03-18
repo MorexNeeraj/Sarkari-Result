@@ -4,7 +4,6 @@ This repository contains the codebase for the Sarkari Result website clone. Sark
 
 ## Repository URL
 
-[liveupx/sarkar-result-website-clone](https://github.com/liveupx/sarkar-result-website-clone)
 
 ## Table of Contents
 
@@ -45,7 +44,7 @@ This repository contains the codebase for the Sarkari Result website clone. Sark
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/liveupx/sarkar-result-website-clone.git
+    git clone https://github.com/liveupx/sarkar-result
     ```
 
 2. Navigate to the project directory:
@@ -100,11 +99,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-**Maintainer:**
 
-Team Liveupx
-
-For any queries, please contact [info@liveupx.com](mailto:info@liveupx.com).
 
 ---
 
